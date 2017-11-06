@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     this is TestB
                    DESC
 
-  s.homepage     = "https://github.com/ax654123123/TestB"
+  s.homepage     = "https://github.com/ax654123123/TestB.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
